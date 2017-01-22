@@ -1,0 +1,10 @@
+﻿#.bak
+*.bak
+#bin
+bin
+#.bat
+*.bat
+#.classpath
+*.classpath
+#.project
+*.project
